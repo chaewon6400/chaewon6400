@@ -2,6 +2,8 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=wave&color=Fbdfea&height=300&section=header&text=Hello! There!%&fontSize=60&fontColor=#fff"/>
 </p>
+<br>
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Good%20to%20use%20with%20other%20readme&fontSize=40&animation=twinkling)
 
 <h3 align="center">👋 It's me! 👋</h3>
 <p align="center">
@@ -38,20 +40,20 @@
   솔캐스터에 놀러오세요! 😃
 </p>
 
-  [![Video Label](http://img.youtube.com/vi/x20l8dUYOZc/0.jpg)](https://youtu.be/x20l8dUYOZc)
+  [![SolCaster](http://img.youtube.com/vi/x20l8dUYOZc/0.jpg)](https://youtu.be/x20l8dUYOZc)
   
 <br>
 
-<h3 align="center">☀️ Welcome to Smart Delineator ✨</h3>
+<h3 align="center">✨ Welcome to Smart Delineator 🛣</h3>
 <p align="center">
   스마트델리네이터의 웹 시연영상입니다. <br>
 </p>
-<div align="center">
+
   [![Smart Delineator](http://img.youtube.com/vi/NWF3Md0O94s/0.jpg)](https://youtu.be/NWF3Md0O94s)
-<div>
+
 
 <br><br>
-<h3 align="center">🌈 Contact Me 🌈</h3>
+<h3 align="center">👋🏻 Contact Me 👩🏻‍💻</h3>
 <p align="center">
   <a href="mailto:chaewon6400@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
