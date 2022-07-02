@@ -38,7 +38,7 @@
   솔캐스터에 놀러오세요! 😃
 </p>
 <p align="center">
-  [![Video Label](http://img.youtube.com/vi/5x20l8dUYOZc/0.jpg)](https://youtu.be/x20l8dUYOZc)
+  [![Video Label](http://img.youtube.com/vi/x20l8dUYOZc/0.jpg)](https://youtu.be/x20l8dUYOZc)
 </p>
 
 <br>
