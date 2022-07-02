@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=Fbdfea&height=300&section=header&text=Hello! There!%&fontSize=60&fontColor=#fff"/>
 </p>
 
-<h3 align="center">👋🏻 It's me! 👋🏻</h3>
+<h3 align="center">👋🏻 It's me! chaewon! 👋🏻</h3>
 <p align="center">
   <b>Frontend Developer</b> 👩🏻‍💻 <br>
-  <b>I'm growing everyday</b> ✌🏻
+  <b>I'm growing everyday</b> 🌱
 </p>
 
 <br><br>
