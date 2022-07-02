@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=Fbdfea&height=300&section=header&text=Hello! There!%&fontSize=60&fontColor=#fff"/>
 </p>
 
-<h3 align="center">👋 It's me! 👋</h3>
+<h3 align="center">👋🏻 It's me! 👋🏻</h3>
 <p align="center">
-  <b>Frontend Developer</b> 👩‍💻 <br>
-  <b>I'm growing everyday</b> 🌿
+  <b>Frontend Developer</b> 👩🏻‍💻 <br>
+  <b>I'm growing everyday</b> ✌🏻
 </p>
 
 <br><br>
@@ -37,8 +37,10 @@
   태양광발전 및 모니터링시스템의 웹 및 대시보드 시연영상입니다. <br>
   솔캐스터에 놀러오세요! 😃
 </p>
-
-  [![SolCaster](http://img.youtube.com/vi/x20l8dUYOZc/0.jpg)](https://youtu.be/x20l8dUYOZc)
+  <div align="center">
+  <a href="https://www.youtube.com/watch?v=x20l8dUYOZc" target="_blank"><img src="http://img.youtube.com/vi/x20l8dUYOZc/0.jpg" 
+alt="SolCaster" width="240" height="180" border="10" /></a>
+</div>
   
 <br>
 
@@ -48,7 +50,7 @@
 </p>
 <div align="center">
   <a href="https://www.youtube.com/watch?v=NWF3Md0O94s" target="_blank"><img src="http://img.youtube.com/vi/NWF3Md0O94s/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="Smart Delineator" width="240" height="180" border="10" /></a>
 </div>
 
 <br><br>
