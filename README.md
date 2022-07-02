@@ -2,8 +2,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=wave&color=Fbdfea&height=300&section=header&text=Hello! There!%&fontSize=60&fontColor=#fff"/>
 </p>
-<br>
-![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Good%20to%20use%20with%20other%20readme&fontSize=40&animation=twinkling)
 
 <h3 align="center">👋 It's me! 👋</h3>
 <p align="center">
@@ -50,6 +48,9 @@
 </p>
 
   [![Smart Delineator](http://img.youtube.com/vi/NWF3Md0O94s/0.jpg)](https://youtu.be/NWF3Md0O94s)
+  
+  <a href="https://www.youtube.com/watch?v=NWF3Md0O94s" target="_blank"><img src="http://img.youtube.com/vi/NWF3Md0O94s/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 <br><br>
