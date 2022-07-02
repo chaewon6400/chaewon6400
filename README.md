@@ -39,9 +39,18 @@
 </p>
 
   [![Video Label](http://img.youtube.com/vi/x20l8dUYOZc/0.jpg)](https://youtu.be/x20l8dUYOZc)
-
-
+  
 <br>
+
+<h3 align="center">☀️ Welcome to Smart Delineator ✨</h3>
+<p align="center">
+  스마트델리네이터의 웹 시연영상입니다. <br>
+</p>
+
+  [![Smart Delineator](http://img.youtube.com/vi/NWF3Md0O94s/0.jpg)](https://youtu.be/NWF3Md0O94s)
+
+
+<br><br>
 <h3 align="center">🌈 Contact Me 🌈</h3>
 <p align="center">
   <a href="mailto:chaewon6400@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
