@@ -46,9 +46,9 @@
 <p align="center">
   스마트델리네이터의 웹 시연영상입니다. <br>
 </p>
-
+<div align="center">
   [![Smart Delineator](http://img.youtube.com/vi/NWF3Md0O94s/0.jpg)](https://youtu.be/NWF3Md0O94s)
-
+<div>
 
 <br><br>
 <h3 align="center">🌈 Contact Me 🌈</h3>
