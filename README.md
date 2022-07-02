@@ -32,13 +32,13 @@
 
 <br><br>
 
-<h3 align="center">☀️ Welcome to SolarPred 💛</h3>
+<h3 align="center">☀️ Welcome to SolarCaster 💛</h3>
 <p align="center">
   태양광발전 및 모니터링시스템의 웹 및 대시보드 시연영상입니다. <br>
-  솔라프리드에 놀러오세요! 😃
+  솔캐스터에 놀러오세요! 😃
 </p>
 <p align="center">
-  <a href="https://ssookssook.netlify.app"><img src="https://img.shields.io/badge/SsookSsoook-006600?style=flat-square&logo=4chan&logoColor=white&link=https://ssookssook.netlify.app"/></a>
+  [![Video Label](http://img.youtube.com/vi/5x20l8dUYOZc/0.jpg)](https://youtu.be/x20l8dUYOZc)
 </p>
 
 <br>
