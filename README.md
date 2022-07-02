@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=DFB8F5&height=300&section=header&text=Hello! There!%&fontSize=60&fontColor=#fff"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=Fbdfea&height=300&section=header&text=Hello! There!%&fontSize=60&fontColor=#fff"/>
 </p>
 
 <h3 align="center">👋 It's me! 👋</h3>
@@ -34,10 +34,10 @@
 
 <br><br>
 
-<h3 align="center">🍀 Welcome to SsookSsook 🌱</h3>
+<h3 align="center">🍀 Welcome to SolarPred 🌱</h3>
 <p align="center">
-  가정옹 스마트 화분의 기업 페이지입니다.☀️ <br>
-  쑥쑥에 놀러오세요!🌱
+  태양광발전 및 모니터링시스템의 웹 및 대시보드 시연영상입니다.☀️ <br>
+  솔라프리드에 놀러오세요!🌱
 </p>
 <p align="center">
   <a href="https://ssookssook.netlify.app"><img src="https://img.shields.io/badge/SsookSsoook-006600?style=flat-square&logo=4chan&logoColor=white&link=https://ssookssook.netlify.app"/></a>
@@ -46,7 +46,7 @@
 <br>
 <h3 align="center">🌈 Contact Me 🌈</h3>
 <p align="center">
-  <a href="mailto:insideb94@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+  <a href="mailto:chaewon6400@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 
 
