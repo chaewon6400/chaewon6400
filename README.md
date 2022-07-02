@@ -37,9 +37,9 @@
   태양광발전 및 모니터링시스템의 웹 및 대시보드 시연영상입니다. <br>
   솔캐스터에 놀러오세요! 😃
 </p>
-<p align="center">
+
   [![Video Label](http://img.youtube.com/vi/x20l8dUYOZc/0.jpg)](https://youtu.be/x20l8dUYOZc)
-</p>
+
 
 <br>
 <h3 align="center">🌈 Contact Me 🌈</h3>
