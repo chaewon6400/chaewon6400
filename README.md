@@ -16,11 +16,9 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>&nbsp 
+   <br>
   <img src="https://img.shields.io/badge/jquery-7952B3?style=for-the-badge&logo=jquery&logoColor=white"/></a>&nbsp 
-  <br>
   <img src="https://img.shields.io/badge/bootstrap-F47C7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Photoshop-7FB5FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Illustrator-FFCD11?style=for-the-badge&logo=AdobeIllustrator&logoColor=white"/></a>&nbsp
 
 </p>
 
@@ -34,10 +32,10 @@
 
 <br><br>
 
-<h3 align="center">🍀 Welcome to SolarPred 🌱</h3>
+<h3 align="center">☀️ Welcome to SolarPred 💛</h3>
 <p align="center">
-  태양광발전 및 모니터링시스템의 웹 및 대시보드 시연영상입니다.☀️ <br>
-  솔라프리드에 놀러오세요!🌱
+  태양광발전 및 모니터링시스템의 웹 및 대시보드 시연영상입니다. <br>
+  솔라프리드에 놀러오세요! 😃
 </p>
 <p align="center">
   <a href="https://ssookssook.netlify.app"><img src="https://img.shields.io/badge/SsookSsoook-006600?style=flat-square&logo=4chan&logoColor=white&link=https://ssookssook.netlify.app"/></a>
