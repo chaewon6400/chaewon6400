@@ -46,15 +46,15 @@
 <p align="center">
   스마트델리네이터의 웹 시연영상입니다. <br>
 </p>
-
-  <a align="center" href="https://www.youtube.com/watch?v=NWF3Md0O94s" target="_blank"><img src="http://img.youtube.com/vi/NWF3Md0O94s/0.jpg" 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=NWF3Md0O94s" target="_blank"><img src="http://img.youtube.com/vi/NWF3Md0O94s/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
+</div>
 
 <br><br>
 <h3 align="center">👋🏻 Contact Me 👩🏻‍💻</h3>
 <p align="center">
-  <a href="mailto:chaewon6400@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+  <a href="mailto:chaewon6400@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=chaewon6400@gmail.com"/></a>
 </p>
 
 
