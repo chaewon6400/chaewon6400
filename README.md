@@ -56,7 +56,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <br><br>
 <h3 align="center">👋🏻 Contact Me 👩🏻‍💻</h3>
 <p align="center">
-  <a href="mailto:chaewon6400@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+  <a align="center" href="mailto:chaewon6400@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 
 
