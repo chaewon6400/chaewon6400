@@ -4,10 +4,10 @@
 </p>
 
 <h2 align="center">👋🏻 It's me! chaewon! 👋🏻</h2>
-<h3 align="center">
+<p align="center">
   <b>Frontend Developer</b> 👩🏻‍💻 <br>
   <b>I'm growing everyday</b> 🌱
-</h3>
+</p>
 
 <br><br>
 
